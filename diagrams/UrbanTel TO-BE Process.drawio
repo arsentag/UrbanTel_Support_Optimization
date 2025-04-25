@@ -1,0 +1,243 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="702" dy="1636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7K-nZcVo6uftYdNp-nMB-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7K-nZcVo6uftYdNp-nMB-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="79" y="112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="7K-nZcVo6uftYdNp-nMB-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="544" y="-211" as="sourcePoint" />
+            <mxPoint x="948.5" y="818.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Start:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Customer Submits Request&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;(Phone / Email / Web Form / Chatbot/&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;- CRM fetches history automatically&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;- Smart form captures category/keywords&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=light-dark(#60A917,#CCFFCC);fontColor=#000000;strokeColor=light-dark(#2D7600,#000000);fillStyle=auto;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="3" width="284.5" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="220" y="250" as="sourcePoint" />
+            <mxPoint x="220" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="270" y="210" as="sourcePoint" />
+            <mxPoint x="320" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="220" y="370" as="sourcePoint" />
+            <mxPoint x="220" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="270" y="330" as="sourcePoint" />
+            <mxPoint x="320" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7K-nZcVo6uftYdNp-nMB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="7K-nZcVo6uftYdNp-nMB-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="79" y="42" as="sourcePoint" />
+            <mxPoint x="79" y="112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7K-nZcVo6uftYdNp-nMB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7K-nZcVo6uftYdNp-nMB-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="258" y="179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7K-nZcVo6uftYdNp-nMB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7K-nZcVo6uftYdNp-nMB-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="258" y="179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7K-nZcVo6uftYdNp-nMB-2" target="WEMQxl2kdTXxtGkMckH2-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7K-nZcVo6uftYdNp-nMB-2" target="WEMQxl2kdTXxtGkMckH2-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7K-nZcVo6uftYdNp-nMB-2" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Step 1: Auto-Triage &amp;amp; Routing&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;System auto-categorizes issue&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;- Assigns ticket to right support team or agent&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;- SLA timer starts&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;- Ticket is logged in CRM with full customer context&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="27" y="162" width="143" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WEMQxl2kdTXxtGkMckH2-4" target="WEMQxl2kdTXxtGkMckH2-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-4" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Can Chatbot or FAQ Resolve?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="273" y="143" width="144" height="99.25" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WEMQxl2kdTXxtGkMckH2-7" target="WEMQxl2kdTXxtGkMckH2-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WEMQxl2kdTXxtGkMckH2-7" target="WEMQxl2kdTXxtGkMckH2-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WEMQxl2kdTXxtGkMckH2-7" target="WEMQxl2kdTXxtGkMckH2-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-7" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Step 2: Support Agent Action&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;- Agent Sees ticket with:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;Full history,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;Category,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;SLA clock&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;- Agent troubleshoots based on script or checklist&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;- Agent updates customer&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="277.25" y="305" width="143" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-12" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="348.62" y="242.25" as="sourcePoint" />
+            <mxPoint x="349" y="304" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-15" value="No" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=none;labelBackgroundColor=#FFFFFF;fontColor=#000000;fontSize=12;" parent="WEMQxl2kdTXxtGkMckH2-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.1049" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WEMQxl2kdTXxtGkMckH2-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179" y="193.18" as="sourcePoint" />
+            <mxPoint x="265" y="193.18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-18" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Chatbot or FAQ Resolve the Issue&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;(Ticket auto-closed)&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="126" width="143" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-20" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="411.5" y="193.14" as="sourcePoint" />
+            <mxPoint x="520" y="192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-21" value="Yes" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBackgroundColor=#FFFFFF;" parent="WEMQxl2kdTXxtGkMckH2-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.2954" y="1" relative="1" as="geometry">
+            <mxPoint x="16" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-22" value="&lt;font color=&quot;#000000&quot;&gt;Can Agent Resolve?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="286" y="497" width="125.5" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-24" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="348.76" y="450" as="sourcePoint" />
+            <mxPoint x="348.38" y="497" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-25" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Escalation via structured dropdown menu&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;(auto-routes)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="33.5" y="474.25" width="143" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-27" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WEMQxl2kdTXxtGkMckH2-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="272.5" y="544.75" as="sourcePoint" />
+            <mxPoint x="176.5" y="546.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-28" value="No" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=none;labelBackgroundColor=#FFFFFF;fontColor=#000000;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+          <mxGeometry x="230.99871457829153" y="545.7453496542237" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-29" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Agent Resolves the issue&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="474.25" width="143" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-31" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WEMQxl2kdTXxtGkMckH2-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="411.5" y="544.88" as="sourcePoint" />
+            <mxPoint x="501.5" y="545.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-33" value="Yes" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBackgroundColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+          <mxGeometry x="465.9982514991782" y="543.9980737743422" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WEMQxl2kdTXxtGkMckH2-34" target="WEMQxl2kdTXxtGkMckH2-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-34" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Step 4: Customer Notification&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Customer auto-notified of resolution progress (can track ticket status live)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="224" y="697.25" width="143" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-37" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Step 3: Technical Team Resolution&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;IT receives complete ticket (logs, context)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;- Works on resolution&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Collaborates with agent via internal notes&lt;/div&gt;&lt;div&gt;- Posts update in system&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="34" y="697.25" width="143" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-40" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Step 6: Team Lead Monitoring&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Lead views real-time dashboard&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;- SLA alerts&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;- Agent performance metrics&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;- Weekly export auto-generated&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="604" y="697.25" width="143" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-44" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Step 5: Agent Final Update&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;Agent confirms resolution&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;- Ticket auto-closes if confirmed&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;- Optional CSAT (Customer Satisfaction Score) survey sent&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="413.5" y="697.25" width="143" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-50" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;End:&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Ticket Closed and feedback received&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;- Case archived in CRM system (Customer Relationship Management)&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=light-dark(#60A917,#CCFFCC);fontColor=#000000;strokeColor=light-dark(#2D7600,#000000);fillStyle=auto;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="470" y="1003" width="263" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="WEMQxl2kdTXxtGkMckH2-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WEMQxl2kdTXxtGkMckH2-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="586.01" y="269" as="sourcePoint" />
+            <mxPoint x="755.3899999999999" y="1090.976" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="586" y="307" />
+              <mxPoint x="757" y="307" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPWdqrCKayYZf7tsluK3-1" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="663" y="545.75" as="sourcePoint" />
+            <mxPoint x="757" y="545.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPWdqrCKayYZf7tsluK3-4" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WEMQxl2kdTXxtGkMckH2-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="670" as="sourcePoint" />
+            <mxPoint x="105.12" y="697.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPWdqrCKayYZf7tsluK3-5" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="176.5" y="768.74" as="sourcePoint" />
+            <mxPoint x="225" y="768.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPWdqrCKayYZf7tsluK3-6" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="367" y="768.74" as="sourcePoint" />
+            <mxPoint x="415" y="768.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPWdqrCKayYZf7tsluK3-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WEMQxl2kdTXxtGkMckH2-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="556.5" y="768.37" as="sourcePoint" />
+            <mxPoint x="596.5" y="768.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPWdqrCKayYZf7tsluK3-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WEMQxl2kdTXxtGkMckH2-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="602" y="948" as="sourcePoint" />
+            <mxPoint x="659" y="903" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPWdqrCKayYZf7tsluK3-11" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="675" y="948" as="sourcePoint" />
+            <mxPoint x="675" y="840.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tPWdqrCKayYZf7tsluK3-12" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="602" y="948" as="sourcePoint" />
+            <mxPoint x="675" y="948" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
